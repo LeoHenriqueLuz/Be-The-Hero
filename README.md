@@ -20,7 +20,7 @@
 
 ## Be the Hero é um projeto que visa ajudar de maneira financeira, instituições de caridade.
 
-                                ### Qual a importância de ser um " Hero " para uma ONG?
+### Qual a importância de ser um " Hero " para uma ONG?
 
 #### As organizações não governamentais (ONGs) são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito
 #### é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: direitos humanos, direitos animais, 
@@ -32,7 +32,7 @@
 #### Commit suas mudanças: git commit -m 'feat: My new feature'
 #### Push a sua branch: git push origin my-feature
 
-### Projeto ministrado na semana Omnistack 11º pelo CTO da Rocketseat Diego Fernandes
+#### Projeto ministrado na semana Omnistack 11º pelo CTO da Rocketseat => Diego Fernandes
 
 
 
